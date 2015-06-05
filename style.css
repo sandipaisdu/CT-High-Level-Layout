@@ -1,0 +1,97 @@
+/*
+Header***************************************************************************************
+********************************************************************************************* Styles */
+
+.header {
+    background-color: #9FC5F8;
+    min-height: 80px
+}
+
+.header p {
+    background-color: #CFE2FB;
+    min-height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.hero {
+    background-color: #9FC5F8;
+    min-height: 150px;
+    margin-top: 10px;
+}
+
+.future {
+    background-color: #CFE2FB;
+    min-height: 80px;
+    line-height: 80px;
+    text-align: center;
+}
+
+.call {
+    background-color: #CFE2FB;
+    min-height: 80px;
+    line-height: 80px;
+    text-align: center;
+}
+
+.ad {
+    background-color: #6FA8DC;
+    min-height: 150px;
+    line-height: 150px;
+    margin-top: 10px;
+    text-align: center;
+}
+.ad h4 {
+  line-height: 150px;
+}
+
+.padding-right {
+    padding-right: 0px !important;
+}
+
+.body {
+    background-color: #9FC5F8;
+    min-height: 300px;
+    margin-top: 10px;
+}
+
+.feature {
+    background-color: #CFE2FB;
+    min-height: 250px;
+    line-height: 250px;
+    text-align: center;
+}
+
+.list {
+    background-color: #CFE2FB;
+    min-height: 250px;
+    line-height: 250px;
+    text-align: center;
+}
+
+.sidebar_content{
+    background-color: #9FC5F8;
+    min-height: 300px;
+    margin-top: 10px; 
+}
+
+.sidebar_content p{
+text-align: center;
+line-height: 200px;
+}
+.sidebar_materials{
+background-color: #CFE2FB;
+  min-height: 250px; 
+}
+.footer{
+    background-color: #9FC5F8;
+    min-height: 70px;
+
+}
+.footer h4{
+    line-height: 70px;
+}
+/*
+Footer***************************************************************************************
+********************************************************************************************* Styles */
+}
