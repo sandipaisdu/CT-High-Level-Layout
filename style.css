@@ -51,38 +51,42 @@ Header**************************************************************************
 
 .body {
     background-color: #9FC5F8;
-    min-height: 300px;
+      min-height: 300px;
     margin-top: 10px;
 }
 
 .feature {
     background-color: #CFE2FB;
-    min-height: 250px;
-    line-height: 250px;
+  min-height: 250px;
+  line-height: 250px;
     text-align: center;
 }
 
 .list {
     background-color: #CFE2FB;
-    min-height: 250px;
-    line-height: 250px;
+  min-height: 250px;
+  line-height: 250px;
     text-align: center;
 }
 
-.sidebar_content{
-    background-color: #9FC5F8;
-    min-height: 300px;
-    margin-top: 10px; 
+.sidebar {
+    background-color: #6FA8DC;
+min-height: 300px;
+}
+.sidebar_title{
+
+}
+.sidebar_content {
+  text-align: center;
+  min-height: 250px;
+  margin: 5px 10px 5px 10px;
+  background-color: #CFE2FB;
+  text-align: center;
+  line-height: 250px;
 }
 
-.sidebar_content p{
-text-align: center;
-line-height: 200px;
-}
-.sidebar_materials{
-background-color: #CFE2FB;
-  min-height: 250px; 
-}
+
+
 .footer{
     background-color: #9FC5F8;
     min-height: 70px;
